@@ -1,0 +1,19 @@
+{
+  "reviewers_per_student": 3,
+  "review_deadline_days": 1,
+  "review_template": {
+    "sections": [
+      "Code Quality",
+      "Functionality",
+      "Design",
+      "Documentation",
+      "Suggestions for Improvement"
+    ],
+    "rating_scale": "1-5"
+  },
+  "notification_settings": {
+    "notify_on_assignment": true,
+    "notify_on_submission": true,
+    "notify_instructor_on_completion": true
+  }
+}
