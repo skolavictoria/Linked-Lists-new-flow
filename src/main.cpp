@@ -11,6 +11,8 @@ public:
     Node(int value) : value(value) {}
 };
 
+
+
 class LinkedList {
 public:
     Node* head = nullptr;
